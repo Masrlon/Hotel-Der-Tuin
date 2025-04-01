@@ -1,2 +1,2 @@
-# Hotel-Der-Tuin
+# Hotel-Ter-Duin
 proefexamen
