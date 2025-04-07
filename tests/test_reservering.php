@@ -1,0 +1,1 @@
+<?php // Simpele test voor reserveringen ?>

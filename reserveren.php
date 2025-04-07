@@ -1,0 +1,1 @@
+<!-- Pagina waar klanten kamers kunnen reserveren -->
